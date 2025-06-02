@@ -1,0 +1,10 @@
+__pycache__
+
+dataset
+holdout
+models
+
+*.sh
+*.out
+
+segmentor/torchrefs/*.py
