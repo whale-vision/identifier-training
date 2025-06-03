@@ -13,3 +13,8 @@ Each component is organised in its own folder with specific dataset requirements
 - `segmentor/` — Whale image segmentation model training code and instructions.
 
 See the README in each subfolder for details on dataset preparation and training.
+
+## License
+
+This project is licensed under the MIT License.  
+See the [LICENSE](./LICENSE) file for details.
